@@ -37,7 +37,22 @@ solved in \mathcal{O}(N) times. Therefore, the time complexity of this algorithm
 O(N^2* 2^N)
 
 
+<H1>Test Cases</H1>
 
+dist=([0,120,634,164],[148,0,32,12],[100,670,0,92],[140,254,694,0]) <br>
+time=([4,2,4,1],[6,2,8,2],[10,6,3,5],[12,15,6,7])<br>
+avg_dist_time=([0,126,134,257],[615,0,132,143],[130,116,0,679],[112,125,160,0])<br>
+
+<H1>Screenshots of Sample Input</H1>
+
+![Screenshot (828)](https://user-images.githubusercontent.com/86475735/193115200-e62c2824-b81c-472b-b7f7-f66ff27c96d0.png)
+
+![Screenshot (829)](https://user-images.githubusercontent.com/86475735/193115224-b1f8fad4-7efb-4ebf-9776-c401bc0ac441.png)
+
+![Screenshot (830)](https://user-images.githubusercontent.com/86475735/193115270-9cb4c757-6b7b-4826-b0f2-075b76b07b38.png)
+![Screenshot (831)](https://user-images.githubusercontent.com/86475735/193115290-441734a8-9d1a-491c-b138-bf19a8ed98b3.png)
+![Screenshot (832)](https://user-images.githubusercontent.com/86475735/193115315-325a4588-7ef1-4e15-a594-b81a10c31147.png)
+![Screenshot (833)](https://user-images.githubusercontent.com/86475735/193115347-4bf41abc-4c37-4d8c-b177-22a0465ed3e9.png)
 
 <H1>Conclusion</H1>
    
