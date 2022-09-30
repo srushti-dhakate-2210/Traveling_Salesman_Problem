@@ -32,8 +32,7 @@ the cost function for each subset of the original problem.
 </H1>
     
 
-In the dynamic algorithm for TSP, the number of possible subsets can be at most N \times 2^N. Each subset can be
-solved in \mathcal{O}(N) times. Therefore, the time complexity of this algorithm would be
+In the dynamic algorithm for TSP, the number of possible subsets can be at most N \times 2^N. The time complexity of this algorithm would be
 O(N^2* 2^N)
 
 
