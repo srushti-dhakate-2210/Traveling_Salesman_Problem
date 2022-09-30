@@ -43,10 +43,60 @@ O(N^2* 2^N)
 
 <H1>Test Cases</H1>
 
+<ul>
+    
+    Test Case 1
+    
+    NODES : 4
+    MATRIX INPUT : 
+    dist=([0,1,999,999],[999,0,1,999],[999,999,0,1],[1,999,999,0]) 
+    time=([0,999,999,2],[2,0,999,999],[999,2,0,999],[999,999,2,0])
+    avg_dist_time=([0,3,999,999],[999,0,3,999],[999,999,0,3],[3,999,999,0])
 
-dist=([0,1,999,999],[999,0,1,999],[999,999,0,1],[1,999,999,0]) <br>
-time=([0,999,999,2],[2,0,999,999],[999,2,0,999],[999,999,2,0])<br>
-avg_dist_time=([0,3,999,999],[999,0,3,999],[999,999,0,3],[3,999,999,0])<br>
+    OUTPUT :
+     (Shortest Distance)
+     
+        Total Distance: 4
+        Path: [0, 1, 2, 3, 0]
+    
+     (Shortest Time) 
+
+        Total Time: 8
+        Path: [0, 3, 2, 1, 0]
+    
+     (Average Distance with Average Time)
+
+        Average Path Value: 12
+        Path: [0, 1, 2, 3, 0]
+        
+        
+        
+    Test Case 2
+
+    NODES : 4
+    MATRIX INPUT : 
+    dist=([0,9,4,7],[7,0,3,2],[10,6,0,9],[12,15,6,0]) 
+    time=([0,500,500,2],[2,0,698,698],[698,2,0,698],[698,698,3,0])
+    avg_dist_time=([0,499,9,99],[199,0,200,92],[19,29,0,1],[577,9,999,0])
+
+    OUTPUT :
+     (Shortest Distance)
+     
+        Total Distance: 24 
+        Path: [0, 2, 1, 3, 0]
+    
+     (Shortest Time) 
+
+        Total Time: 9
+        Path: [0, 3, 2, 1, 0]
+    
+     (Average Distance with Average Time)
+     
+        Average Path Value: 218
+        Path: [0, 2, 3, 1, 0]
+    
+</ul>
+
 
 <H1>Screenshots of Sample Input</H1>
 
