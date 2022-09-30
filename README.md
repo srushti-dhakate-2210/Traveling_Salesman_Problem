@@ -18,7 +18,9 @@ the shortest possible path that visits every node exactly once and returns to th
 </ul>
 
 <h1>Collab Link </h1>
-<link rel="stylesheet" href="https://colab.research.google.com/drive/1Q-WyCYDrN8HrRW0vft_kFBEFRAo92m_m?usp=sharing">
+[Click Here 👉](https://colab.research.google.com/drive/1Q-WyCYDrN8HrRW0vft_kFBEFRAo92m_m?usp=sharing)
+
+
 
 <H1>About Traveling Salesman Problem</H1>
     
@@ -47,15 +49,16 @@ avg_dist_time=([0,126,134,257],[615,0,132,143],[130,116,0,679],[112,125,160,0])<
 
 <H1>Screenshots of Sample Input</H1>
 
-![Screenshot (828)](https://user-images.githubusercontent.com/86475735/193115200-e62c2824-b81c-472b-b7f7-f66ff27c96d0.png)
+![Screenshot (834)](https://user-images.githubusercontent.com/86475735/193273549-282f1993-bb7e-405e-9f05-957e18524243.png)
 
-![Screenshot (829)](https://user-images.githubusercontent.com/86475735/193115224-b1f8fad4-7efb-4ebf-9776-c401bc0ac441.png)
+![Screenshot (835)](https://user-images.githubusercontent.com/86475735/193273602-2318071a-a00f-4634-b553-eb7ba471e672.png)
+![Screenshot (836)](https://user-images.githubusercontent.com/86475735/193273791-c57eb646-5638-45c1-a016-54952af8f307.png)
+![Screenshot (837)](https://user-images.githubusercontent.com/86475735/193273905-24486d24-e08b-4b46-abc0-cf99845caa5d.png)
 
-![Screenshot (830)](https://user-images.githubusercontent.com/86475735/193115270-9cb4c757-6b7b-4826-b0f2-075b76b07b38.png)
-![Screenshot (831)](https://user-images.githubusercontent.com/86475735/193115290-441734a8-9d1a-491c-b138-bf19a8ed98b3.png)
-![Screenshot (832)](https://user-images.githubusercontent.com/86475735/193115315-325a4588-7ef1-4e15-a594-b81a10c31147.png)
-![Screenshot (833)](https://user-images.githubusercontent.com/86475735/193115347-4bf41abc-4c37-4d8c-b177-22a0465ed3e9.png)
+![Screenshot (838)](https://user-images.githubusercontent.com/86475735/193274013-ce550bca-c2fa-42ce-a5c3-9487ca4e47b6.png)
 
+
+![Screenshot (839)](https://user-images.githubusercontent.com/86475735/193274071-16593632-7c48-4c66-a7ea-ae73ccedf5a4.png)
 <H1>Conclusion</H1>
    
 
